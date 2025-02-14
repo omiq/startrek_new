@@ -1,6 +1,6 @@
 # startrek_new
 Recreating the classic super star trek
-
+```
 START GAME
     Initialize global constants:
         - SHIP_ENERGY_CAPACITY = 3000
@@ -212,6 +212,8 @@ GAME END:
     If failure:
         Print cause of mission failure
     Offer to play again:
+
+```
         If input = 'AYE':
             Restart game
         Else:
